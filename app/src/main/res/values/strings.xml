@@ -29,4 +29,23 @@
     <string name="about">About</string>
     <string name="app_version">Version 1.0.0</string>
     <string name="developer_info">Developed by Axion Team</string>
+    
+    <!-- Info Fragment Strings -->
+    <string name="information">Information</string>
+    <string name="app_description">App Description</string>
+    <string name="description_text">Your app description goes here</string>
+    <string name="features">Features</string>
+    <string name="feature_1">Feature 1 description</string>
+    <string name="feature_2">Feature 2 description</string>
+    <string name="feature_3">Feature 3 description</string>
+    <string name="contact">Contact</string>
+    <string name="email_contact">email@example.com</string>
+    <string name="website_contact">https://example.com</string>
+    
+    <!-- Navigation Drawer Strings -->
+    <string name="dashboard">Dashboard</string>
+    <string name="version_manager">Version Manager</string>
+    <string name="resource_installer">Resource Installer</string>
+    <string name="resource_manager">Resource Manager</string>
+    <string name="tools">Tools</string>
 </resources>
