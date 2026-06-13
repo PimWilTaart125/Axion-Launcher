@@ -48,4 +48,6 @@
     <string name="resource_installer">Resource Installer</string>
     <string name="resource_manager">Resource Manager</string>
     <string name="tools">Tools</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
